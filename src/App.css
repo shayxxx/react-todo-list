@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+div{
+  text-align: center;
+  position: relative;
+
+}
+.buts{
+  margin-left: 10px;
+  background-color: aqua;
+  color: darkorange;
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 80px;
+
+}
+.buts:hover{
+  margin-left: 10px;
+  background-color: darkcyan;
+  color: gold;
+  margin-right: 10px;
+  box-shadow: black;
+  margin-top: 10px;
+  width: 80px;
+
+}
+.entering{
+  margin-top: 10px;
+  float: bottom;
+}
+
+.adding{
+
+  width: 180px;
+
+}
+.adding:hover{
+
+  width: 180px;
+  background-color: aquamarine;
+}
+
+.pp{
+  align: center;
+}
+
+.addtoarray{
+  float: left;
+  margin-top: 10px;
+}
